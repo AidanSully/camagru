@@ -3,14 +3,14 @@
 
 <head>
     <link rel="stylesheet" href="../style/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
 </head>
 <html>
 <nav>
     <div class="logo">
-        <h4>Camagru</h4>
+        <h4><a href="#">Camagru</a></h4>
     </div>
     <ul class="nav-links">
-        <li><a href="#">Home</a></li>
         <li><a href="#">Dashboard</a></li>
         <li><a href="#">Login</a></li>
         <li><a href="#">Logout</a></li>
